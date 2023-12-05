@@ -1,0 +1,35 @@
+.Boxex1{
+    width: 20px;
+    height: 20px;
+    padding: 20px;
+    border: 2px solid black;
+    margin: auto;
+    background-color: aqua;
+}
+.ex1and2{
+    text-align: center;
+}
+.Boxex3a{
+    width: 20px;
+    height: 20px;
+    padding: 20px;
+    border: 2px solid black;
+    margin: auto;
+    background-color: red;
+}
+.Boxex3b{
+    width: 20px;
+    height: 20px;
+    padding: 20px;
+    border: 2px solid black;
+    margin: auto;
+    background-color: green;
+}
+.Boxex3c{
+    width: 20px;
+    height: 20px;
+    padding: 20px;
+    border: 2px solid black;
+    margin: auto;
+    background-color: blue;
+}
